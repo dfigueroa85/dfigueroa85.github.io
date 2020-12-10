@@ -11,3 +11,7 @@
 #contacto{
     font-family: 'JetBrains Mono', monospace;
 }
+
+html{
+    scroll-behavior: smooth;
+}
